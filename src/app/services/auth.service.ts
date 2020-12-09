@@ -7,7 +7,7 @@ import { map } from 'rxjs/operators';
     providedIn: 'root',
 })
 export class AuthService {
-    private url = ' https://identitytoolkit.googleapis.com/v1';
+    private url = ' https://idegjhghjghgjgjgj/v1';
     private apiKey = 'gffsfssfsfsfsftrtr';
     private userToken: string;
 
